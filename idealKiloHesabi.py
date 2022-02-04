@@ -6,7 +6,7 @@ kilo=int(input("Kilonuz(kg):"))
 boy=float(input("Boyunuz(metre cinsinden):"))
 
 #vki: vucut kitle indeksi
-vki=kilo/(boy*boy)
+vki=kilo/pow(boy,2)
 
 if (vki<=18.5):
     print("--> Düşük Kilolu",vki)
