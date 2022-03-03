@@ -9,5 +9,5 @@ elif (sayı == 0):
     print(sayı,"sayısının mutlak değeri: ",sayı)
     
 else:
-    print(sayı,"sayısnın mutlak değeri: ",(sayı*(-1)))
+    print(sayı,"sayısının mutlak değeri: ",(sayı*(-1)))
     
